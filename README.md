@@ -1,7 +1,15 @@
-# shells
-shells for better working.
+# aliases
+重命名命令
 
-## elasticsearh
+# elasticsearch
 
-- start.sh
-    - `优化参数`启动es服务
+# git
+git重命名
+git颜色开启
+
+# keyboard
+开启键盘
+关闭键盘
+
+# proxy
+连接代理
